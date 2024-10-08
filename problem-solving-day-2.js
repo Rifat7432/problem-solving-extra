@@ -40,3 +40,15 @@ console.log(uniqueValues(numbers));
 const findMaxValue = arr => Math.max(...arr);
 
 console.log(findMaxValue([1, 2, 3, 10, 4, 5])); 
+
+
+// Task: Advanced Sorting
+// Create an array of objects representing students with 'name' and 'grades' properties. Write a function to sort the students by average grade in descending order.
+// Task: Functional Programming - Reduce
+// Write a function that uses the reduce function to calculate the total value of an array of objects with a 'quantity' and 'price' property.interview
+// Task: Array Intersection
+// Write a function that takes two arrays and returns a new array containing only the elements that appear in both arrays.
+// Task: Object Transformation
+// Create an array of objects representing customers with 'name', 'purchases', and 'loyaltyPoints' properties. Write a function to transform the array by doubling the 'loyaltyPoints' of customers with more than 5 purchases.
+// Task: Function Memoization
+// Implement a memoization function that caches the results of expensive function calls and returns the cached result when the same inputs occur again.
